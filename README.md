@@ -15,7 +15,7 @@ All content in this repository is created and maintained by AbdurY unless otherw
 - Brand Assets and UI Elements
 
 ## License
-This project is licensed under the [TSR Hoster License](/blob/main/LICENCE).
+This project is licensed under the [TSR Hoster License](/LICENCE).
 
 Unauthorized use of the content, including branding, logos, and source code, is strictly prohibited without written permission.
 
